@@ -1,0 +1,3 @@
+wrapper.cpp:10:6:void kusoOutputCompare(TIM_HandleTypeDef*, uint32_t)	7
+wrapper.cpp:17:9:uint8_t convertToUint8(uint32_t)	1
+wrapper.cpp:22:6:void main_cpp()	1

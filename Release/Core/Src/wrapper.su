@@ -1,0 +1,2 @@
+../Core/Src/wrapper.cpp:9:6:void kusoOutputCompare(TIM_HandleTypeDef*, uint32_t)	16	static
+../Core/Src/wrapper.cpp:16:6:void main_cpp()	8	static

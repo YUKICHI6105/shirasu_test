@@ -1,0 +1,2 @@
+wrapper.cpp:9:6:void kusoOutputCompare(TIM_HandleTypeDef*, uint32_t)	7
+wrapper.cpp:16:6:void main_cpp()	1
